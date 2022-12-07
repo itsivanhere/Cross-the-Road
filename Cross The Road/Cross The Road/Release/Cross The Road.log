@@ -1,0 +1,15 @@
+﻿  Game.cpp
+D:\PBO 2020\Cross The Road\Cross The Road\Objek.h(8,9): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+D:\PBO 2020\Cross The Road\Cross The Road\Game.cpp(172,20): warning C4018:  '<': signed/unsigned mismatch
+D:\PBO 2020\Cross The Road\Cross The Road\Game.cpp(182,5): warning C4065:  switch statement contains 'default' but no 'case' labels
+D:\PBO 2020\Cross The Road\Cross The Road\Game.cpp(194,22): warning C4018:  '<': signed/unsigned mismatch
+D:\PBO 2020\Cross The Road\Cross The Road\Game.cpp(301,20): warning C4018:  '<': signed/unsigned mismatch
+D:\PBO 2020\Cross The Road\Cross The Road\Game.cpp(308,21): warning C4018:  '<': signed/unsigned mismatch
+D:\PBO 2020\Cross The Road\Cross The Road\Game.cpp(368,20): warning C4018:  '<': signed/unsigned mismatch
+D:\PBO 2020\Cross The Road\Cross The Road\Game.cpp(374,20): warning C4018:  '<': signed/unsigned mismatch
+  Generating code
+  0 of 375 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Cross The Road.vcxproj -> D:\PBO 2020\Cross The Road\Cross The Road\Release\Cross The Road.exe

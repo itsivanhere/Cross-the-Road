@@ -1,0 +1,12 @@
+﻿  Game.cpp
+D:\PBO 2020\Cross The Road\Cross The Road\Objek.h(8,9): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+D:\PBO 2020\Cross The Road\Cross The Road\Game.cpp(80,28): warning C4244:  'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\PBO 2020\Cross The Road\Cross The Road\Game.cpp(93,24): warning C4244:  'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\PBO 2020\Cross The Road\Cross The Road\Game.cpp(211,20): warning C4018:  '<': signed/unsigned mismatch
+D:\PBO 2020\Cross The Road\Cross The Road\Game.cpp(221,5): warning C4065:  switch statement contains 'default' but no 'case' labels
+D:\PBO 2020\Cross The Road\Cross The Road\Game.cpp(233,22): warning C4018:  '<': signed/unsigned mismatch
+D:\PBO 2020\Cross The Road\Cross The Road\Game.cpp(358,20): warning C4018:  '<': signed/unsigned mismatch
+D:\PBO 2020\Cross The Road\Cross The Road\Game.cpp(365,21): warning C4018:  '<': signed/unsigned mismatch
+D:\PBO 2020\Cross The Road\Cross The Road\Game.cpp(440,20): warning C4018:  '<': signed/unsigned mismatch
+D:\PBO 2020\Cross The Road\Cross The Road\Game.cpp(446,20): warning C4018:  '<': signed/unsigned mismatch
+  Cross The Road.vcxproj -> D:\PBO 2020\Cross The Road\Cross The Road\Debug\Cross The Road.exe
